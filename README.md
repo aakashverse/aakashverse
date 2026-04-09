@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there, I'm Akash 👋<br><br>💻 3rd-year CSE student | MERN Stack Developer<br>🚀 DSA & AI/ML Enthusiast <br><br>🌱I’m currently learning: Gen-AI<br>💬 Ask me about: collaboration & project building<br>⚡ Fun fact: Half of my ideas come at night, the other half while debugging 🧠☕
+# Hey, I'm Akash 👋
+💻 3rd-year CSE student | MERN Stack Developer<br>🚀 DSA & AI/ML Enthusiast <br><br>🌱I’m currently learning: Gen-AI<br>💬 Ask me about: collaboration & project building<br>⚡ Fun fact: Half of my ideas come at night, the other half while debugging 🧠☕
 
 
 ## 🌐 Socials:
