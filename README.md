@@ -2,7 +2,7 @@
    <h1>Hi there, I'm Akash 👋</h1>
 </div>
    
-💻 3rd-year CSE student | MERN Stack Developer <br>🚀 DSA & AI/ML Enthusiast <br><br>🌱 Currently learning: **Gen-AI** <br>💬 Ask me about: **collaboration & project building** <br>⚡ Fun fact: Half of my ideas come at night, the other half while debugging 🧠☕
+💻 3rd-year CSE student | MERN Stack Developer <br>🚀 DSA & AI/ML Enthusiast <br><br>🌱 Currently learning: **Gen-AI** <br>💬 Ask me about: **projects & collaboration** <br>⚡ Fun fact: Half of my ideas come at night, the other half while debugging 
 
 <hr>
 
