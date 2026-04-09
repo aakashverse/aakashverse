@@ -34,19 +34,16 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css,tailwind,bootstrap,react,nodejs,express,mongodb,mysql,aws,git,github" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css,tailwind,bootstrap,react,nodejs,express,mongodb,mysql,aws,vercel,git,github" />
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Netlify-0D0208?style=for-the-badge&logo=netlify&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Railway-0D0208?style=for-the-badge&logo=railway&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Render-0D0208?style=for-the-badge&logo=render&logoColor=00FF41" />
 <img src="https://img.shields.io/badge/Streamlit-0D0208?style=for-the-badge&logo=streamlit&logoColor=00FF41" />
 
 </p>
-
 ---
 
 ## 📊 GitHub Stats  
