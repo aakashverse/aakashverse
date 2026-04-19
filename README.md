@@ -13,7 +13,6 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=aakashverse&show_icons=true&theme=chartreuse-dark" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashverse&theme=chartreuse-dark" />
 </div>
 
