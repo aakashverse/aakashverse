@@ -1,1 +1,1 @@
-Curiosity drives me to build Intelligence.
+Entangled by Curiosity to create Intelligent Systems.
