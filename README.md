@@ -1,1 +1,1 @@
-Entangled by Curiosity to create Intelligent Systems.
+i am curious to create
